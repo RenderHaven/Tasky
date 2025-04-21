@@ -1,0 +1,2 @@
+C:/Users/Lenovo/Desktop/Apps/tasky/android/app/.cxx/Debug/c30203dw/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/Apps/tasky/android/app/.cxx/Debug/c30203dw/arm64-v8a/CMakeFiles/rebuild_cache.dir
