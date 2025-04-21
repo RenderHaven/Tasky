@@ -32,7 +32,7 @@ Tasky is a simple task management application that allows users to create accoun
 ## 📦 Deliverables
 
 1. **GitHub Repo**: [Tasky GitHub Repository](https://github.com/RenderHaven/Tasky)
-2. **Demo Video**: A working demo of the app can be found in the [https://drive.google.com/file/d/1u1hbpgAjKgjIcRpKkBGnzum0WLfFOnPR/view?usp=sharing](#). (Please replace with actual link once uploaded.)
+2. **Demo Video**: A working demo of the app can be found in the [Link](https://drive.google.com/file/d/1u1hbpgAjKgjIcRpKkBGnzum0WLfFOnPR/view?usp=sharing).
 3. **README**: Detailed instructions on setting up and using the app.
 
 ## Setup Instructions
