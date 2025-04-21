@@ -2,6 +2,12 @@
 
 Tasky is a simple task management application that allows users to create accounts, add projects, and organize tasks under those projects. It supports real-time database updates and offers a clean and intuitive interface for task management.
 
+# Ui
+![Tasky UI](assets/promo/Ui.png)
+
+## Database Disign
+# Ui
+![Database](assets/promo/Database.png)
 ## Features
 
 - **User Account**: Users can create an account and log in.
